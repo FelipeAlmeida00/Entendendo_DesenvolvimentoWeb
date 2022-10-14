@@ -1,0 +1,43 @@
+body {
+	background-image: url(../img/fundo4.jpg);
+	background-repeat: round;
+
+}
+
+h1,h2{
+
+	font-weight: bolder;
+	text-align: center;
+	color: #fff;
+}
+
+p {
+
+	color: #fff;
+	font-weight: bolder;
+	font-size: 20px;
+	text-align: justify;
+
+}
+
+ul li {
+
+	text-decoration: underline;
+	color: #fff;
+	font-weight: bolder;
+
+}
+
+figure {
+
+	text-align: center;
+	
+}
+
+img {
+
+	border: 5px dashed #fff;
+	width: 70%;
+
+
+}
